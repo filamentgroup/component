@@ -1,5 +1,6 @@
-Component
-=========
+# Component
+
+[![Filament Group](http://filamentgroup.com/images/fg-logo-positive-sm-crop.png) ](http://www.filamentgroup.com/)
 
 Just a simple auto-enhance-able component skeleton. It's not a widget factory, just for simple stuff. 
 
